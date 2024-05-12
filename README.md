@@ -1,0 +1,2 @@
+# Backup_Check_Point_Gaia_Embedded_Configs
+Check Point Automation Script
